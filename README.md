@@ -22,6 +22,6 @@ $ npm start
 ```
 
 ## Sources
-This app is inspired by John Smillga react proje ct.
+This app is inspired by John Smillga react project.
 
 > Live demo [_here_](https://weekendcocktails.netlify.app).
